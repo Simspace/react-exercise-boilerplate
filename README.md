@@ -1,6 +1,6 @@
 # Weather App Coding Exercise
 
-You are tasked with creating a weather forecasting application that allows users to view current and forecast weather data. The application should use React, Typescript, and OpenWeather API to fetch and display weather data and provide an intuitive user interface.
+You are tasked with creating a weather forecasting application that allows users to view current and forecast weather data. The application should use React, Typescript, and OpenWeather API to fetch and display weather data and provide an intuitive user interface. Some work has been done for you to setup the repository.
 
 ## Brief User Requirements
 
