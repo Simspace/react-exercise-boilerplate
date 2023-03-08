@@ -30,7 +30,7 @@ const WeatherApp: React.FC = () => {
         lon = geocodingData.lon;
       }
 
-      // Make  the lat lon to make a request for weather data
+      // A request needs to be made with the lat lon for weather data
 
       setWeatherData(oneCallData);
     } catch (error) {
